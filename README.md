@@ -1,5 +1,6 @@
 # COSC 522 (Machine Learning)
 Instructor: Dr Hairong Qi
+
 University of Tennessee
 
 This repository contains my codes for assignments and homeworks.
