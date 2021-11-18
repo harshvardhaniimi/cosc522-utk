@@ -20,4 +20,4 @@ This repository contains my codes for assignments and homeworks.
 + HW5: http://web.eecs.utk.edu/~hqi/cosc522/hw/hw5.pdf
 
 ### Final Project
-See http://web.eecs.utk.edu/~hqi/cosc522/project/proj-final.htm
++ http://web.eecs.utk.edu/~hqi/cosc522/project/proj-final.htm
